@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CodeCracking</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Big O</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Big O</location>
+		</link>
+		<link>
+			<name>Ch 01. Arrays and Strings</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 01. Arrays and Strings</location>
+		</link>
+		<link>
+			<name>Ch 02. Linked Lists</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 02. Linked Lists</location>
+		</link>
+		<link>
+			<name>Ch 03. Stacks and Queues</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 03. Stacks and Queues</location>
+		</link>
+		<link>
+			<name>Ch 07. Object-Oriented Design</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 07. Object-Oriented Design</location>
+		</link>
+		<link>
+			<name>Ch 08. Recursion and Dynamic Programming</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 08. Recursion and Dynamic Programming</location>
+		</link>
+		<link>
+			<name>Ch 09. Scalability and Memory Limits</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 09. Scalability and Memory Limits</location>
+		</link>
+		<link>
+			<name>Ch 10. Sorting and Searching</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 10. Sorting and Searching</location>
+		</link>
+		<link>
+			<name>Ch 13. Java</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 13. Java</location>
+		</link>
+		<link>
+			<name>Ch 15. Threads and Locks</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 15. Threads and Locks</location>
+		</link>
+		<link>
+			<name>Ch 16. Moderate</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Ch 16. Moderate</location>
+		</link>
+		<link>
+			<name>CtCILibrary</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/CtCILibrary</location>
+		</link>
+		<link>
+			<name>Introduction</name>
+			<type>2</type>
+			<location>C:/Rohit/Books_Dell/Interview/GE/CtCI-6th-Edition-master/CtCI-6th-Edition-master/Java/Introduction</location>
+		</link>
+	</linkedResources>
+</projectDescription>
